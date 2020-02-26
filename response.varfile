@@ -6,4 +6,4 @@ sys.confirmedUpdateInstallationString=false
 launch.application$Boolean=true
 existingInstallationDir=/home/ec2-user/JIRA Software
 sys.languageId=en
-sys.installationDir=/home/ec2-user/atlassian/jira
+sys.installationDir=/opt/atlassian/jira
